@@ -2,5 +2,6 @@
 Generates strong password ramdomly based on the user input
 
 
-[Password Generation](Random-password-generator/password%20generator.gif)
+![password generator](https://github.com/user-attachments/assets/e66873e0-677c-4dc9-b15d-5c2c8a5eedaf)
+
 
